@@ -1,0 +1,25 @@
+Date: 2021-07-30
+Cardiology Count: 38
+Radiology Count: 94
+Visiting Count: 1078
+
+Date: 2021-07-29
+Cardiology Count: 42
+Radiology Count: 102
+Visiting Count: 1105
+
+Date: 2021-07-28
+Cardiology Count: 35
+Radiology Count: 86
+Visiting Count: 1050
+
+Date: 2021-07-27
+Cardiology Count: 40
+Radiology Count: 98
+Visiting Count: 1120
+
+Date: 2023-11-24
+Cardiology Count: 2
+Radiology Count: 3
+Visiting Count: 100
+

@@ -1,0 +1,60 @@
+Month: JANUARY
+Cardiology Count: 157
+Radiology Count: 383
+Visiting Count: 4453
+
+Month: FEBRUARY
+Cardiology Count: 157
+Radiology Count: 383
+Visiting Count: 4453
+
+Month: MARCH
+Cardiology Count: 157
+Radiology Count: 383
+Visiting Count: 4453
+
+Month: APRIL
+Cardiology Count: 157
+Radiology Count: 383
+Visiting Count: 4453
+
+Month: MAY
+Cardiology Count: 157
+Radiology Count: 383
+Visiting Count: 4453
+
+Month: JUNE
+Cardiology Count: 157
+Radiology Count: 383
+Visiting Count: 4453
+
+Month: JULY
+Cardiology Count: 157
+Radiology Count: 383
+Visiting Count: 4453
+
+Month: AUGUST
+Cardiology Count: 157
+Radiology Count: 383
+Visiting Count: 4453
+
+Month: SEPTEMBER
+Cardiology Count: 157
+Radiology Count: 383
+Visiting Count: 4453
+
+Month: OCTOBER
+Cardiology Count: 157
+Radiology Count: 383
+Visiting Count: 4453
+
+Month: NOVEMBER
+Cardiology Count: 157
+Radiology Count: 383
+Visiting Count: 4453
+
+Month: DECEMBER
+Cardiology Count: 157
+Radiology Count: 383
+Visiting Count: 4453
+
